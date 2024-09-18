@@ -1,4 +1,4 @@
-# PRODIGY_Trackcode_tictoktoe
+# PRODIGY_Trackcode_tictactoe
 Tic-Tac-Toe Web Application
 Description
 This Tic-Tac-Toe web application offers a classic and interactive game experience using HTML, CSS, and JavaScript. The game is designed with a sleek dark gradient background and includes vibrant animations to enhance user engagement. Players can enjoy a two-player mode where they compete to align three markers in a row, either horizontally, vertically, or diagonally.
